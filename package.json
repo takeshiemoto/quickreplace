@@ -33,7 +33,7 @@
     "core-js": "^3.6.5",
     "document-register-element": "1.13.1",
     "next": "10.0.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-hook-form": "^6.13.1",
